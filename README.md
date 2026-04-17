@@ -1,2 +1,1 @@
 # Fin-Data-Open
-#  Linux
